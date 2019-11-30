@@ -2,22 +2,33 @@
 @media screen and (max-width: 481px){
 
 	#WELCOMEH1 {
-		font-size: 10px;
+		font-size: 12px;
 		font-family: verdane;
         color: white;
+        text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 	}
     #GOAL {
         font-size: 5px;
         font-family: verdana;
     }
+    #PROJECTH2 {
+        font-size: 5px;
+        font-family: verdane;
+    }
 
 }
 #WELCOMEH1 {
-    font-size: 20px;
+    font-size: 25px;
     font-family: verdana;
     color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 #GOAL {
     font-size: 15px;
     font-family: verdana; 
 }
+#PROJECTH2 {
+    font-size: 15px;
+    font-family: verdana;
+}
+
