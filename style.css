@@ -4,6 +4,7 @@
 	#WELCOMEH1 {
 		font-size: 10px;
 		font-family: verdane;
+        color: white;
 	}
     #GOAL {
         font-size: 5px;
@@ -14,6 +15,7 @@
 #WELCOMEH1 {
     font-size: 20px;
     font-family: verdana;
+    color: white;
 }
 #GOAL {
     font-size: 15px;
