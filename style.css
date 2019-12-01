@@ -1,0 +1,52 @@
+/* CSS Document */
+@media screen and (max-width: 481px){
+
+	#WELCOMEH1 {
+		font-size: 12px;
+		font-family: verdane;
+        color: white;
+        text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	}
+    #GOAL {
+        font-size: 5px;
+        font-family: verdana;
+    }
+    #PROJECTH2 {
+        font-size: 5px;
+        font-family: verdane;
+    }
+    #ABOUT {
+        font-size: 5px;
+        font-family: verdane;
+    }
+    #TEXTBTN {
+        font-size: 12.5px;
+        font-family: verdana;
+        color: black;
+    }
+
+}
+#WELCOMEH1 {
+    font-size: 25px;
+    font-family: verdana;
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+#GOAL {
+    font-size: 15px;
+    font-family: verdana; 
+}
+#PROJECTH2 {
+    font-size: 15px;
+    font-family: verdana;
+}
+#ABOUT {
+    font-size: 15px;
+    font-family: verdana;
+}
+#TEXTBTN {
+    font-size: 14.5px;
+    font-family: verdana;
+    color: black;
+}
+
