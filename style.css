@@ -43,6 +43,20 @@
     font-family: verdana;
     color: #c0c0c0;
     }
+    #WELCOME47 {
+    width: 1407px; 
+    height: 1390px;
+    }
+    #div1 {
+    font-family: verdana;
+    color: steelblue;
+    }
+    #BUTTE45 {
+    padding: 5px;
+    background-color: white;
+    color: steelblue;
+    border: 2px solid steelblue;
+    }
 }
 #WELCOMEH1 {
     font-size: 30px;
@@ -112,4 +126,18 @@
 #DOWNLOAD1 {
 font-family: verdana;
 color: white;
+}
+#WELCOME47 {
+width: 1407px; 
+height: 1390px;
+}
+#div1 {
+    font-family: verdana;
+    color: steelblue;
+}
+#BUTTE45 {
+padding: 5px;
+background-color: white;
+color: steelblue;
+border: 2px solid steelblue;
 }
