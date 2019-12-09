@@ -57,6 +57,16 @@
     color: steelblue;
     border: 2px solid steelblue;
     }
+    #PROJECTH3 {
+    font-size: 15px;
+    font-family: verdana;
+    color: #c0c0c0;
+    }
+    #PROJECTH4 {
+    font-size: 5px;
+    font-family: verdana;
+    color: #c0c0c0;
+    }
 }
 #WELCOMEH1 {
     font-size: 30px;
@@ -140,4 +150,15 @@ padding: 5px;
 background-color: white;
 color: steelblue;
 border: 2px solid steelblue;
+}
+
+#PROJECTH3 {
+    font-size: 20px;
+    font-family: verdana;
+    color: #c0c0c0;
+}
+#PROJECTH4 {
+font-size: 13px;
+font-family: verdana;
+color: #c0c0c0;
 }
