@@ -67,6 +67,14 @@
     font-family: verdana;
     color: #c0c0c0;
     }
+    #RAM1 {
+    border: 3px solid steelblue; 
+    background-color: white; 
+    width: 100px
+    }
+    
+    
+    
 }
 #WELCOMEH1 {
     font-size: 30px;
@@ -161,4 +169,9 @@ border: 2px solid steelblue;
 font-size: 13px;
 font-family: verdana;
 color: #c0c0c0;
+}
+#RAM1 {
+border: 5px solid steelblue; 
+background-color: white; 
+width: 1000px
 }
