@@ -72,7 +72,14 @@
     background-color: white; 
     width: 300px;
     }
-    
+    #TEXTBTNX {
+    font-size: 18.5px;
+    font-family: verdana;
+    color: steelblue;
+    }
+    #comingx {
+    font-family:verdana ;
+    }
     
     
 }
@@ -122,6 +129,7 @@
 }    
 #BUTT1 {
     color: white;
+    font-family: verdana;
     background-color: steelblue;
 }
 #BUTT2 {
@@ -174,4 +182,18 @@ color: #c0c0c0;
 border: 5px solid steelblue; 
 background-color: white; 
 width: 1000px ;
+}
+
+#TEXTBTN222 {
+    font-size: 10.5px;
+    font-family: verdana;
+    color: steelblue;
+}
+#TEXTBTNX {
+    font-size: 40.5px;
+    font-family: verdana;
+    color: steelblue;
+}
+#comingx {
+    font-family:verdana ;
 }
