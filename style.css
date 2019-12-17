@@ -1,5 +1,5 @@
 /* CSS Document */
-@media screen and (max-width: 481px){
+@media screen and (max-width: 500px){
 
 	#WELCOMEH1 {
 		font-size: 12px;
@@ -87,7 +87,7 @@
     }
     .ram {
     background-color: white;
-    border: 2px solid green;
+    border: 2px solid steelblue;
     height: 300px;
     width: 300px;
     }
