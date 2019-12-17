@@ -84,7 +84,20 @@
     font-size: 13px;
     font-family: verdana;
     color: black;
-    } 
+    }
+    .ram {
+    background-color: white;
+    border: 2px solid steelblue;
+    height: 300px;
+    width: 300px;
+    }
+    
+    .ram2 {
+    background-color: white;
+    height: 400px;
+    width: 300px;
+    }
+    
     
     
 }
@@ -206,4 +219,17 @@ width: 1000px ;
 }
 #comingx {
     font-family:verdana ;
+}
+
+.ram {
+background-color: white;
+border: 2px solid steelblue;
+height: 300px;
+width: 300px;
+}
+
+.ram2 {
+background-color: white;
+height: 400px;
+width: 500px;
 }
