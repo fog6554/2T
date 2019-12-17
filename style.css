@@ -1,5 +1,5 @@
 /* CSS Document */
-@media screen and (max-width:1081px){
+@media (max-width:1081px){
 
 	#WELCOMEH1 {
 		font-size: 12px;
@@ -90,6 +90,7 @@
     border: 2px solid green;
     height: 300px;
     width: 300px;
+    }
     }
     
     
