@@ -220,10 +220,6 @@ width: 1000px ;
 background-color: white;
 border: 2px solid gold;
 position: relative;
-right: 1%;
-left: 1%;
 height: 300px;	
 max-width: 600px;
-bottom: 0;
-padding: 8px;
 }
