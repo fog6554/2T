@@ -215,13 +215,14 @@ width: 1000px ;
 #comingx {
     font-family:verdana ;
 }
-
-.ram {
-background-color: white;
-border: 2px solid darkgray;
-position: relative;
-height: 300px;
-width: 600px;
+@media (min-width;1081px){
+   .ram {
+   background-color: white;
+   border: 2px solid darkgray;
+   position: relative;
+   height: 300px;
+   width: 600px;
+}
 }
 
 @media (max-width;1081px){
