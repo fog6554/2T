@@ -222,4 +222,5 @@ position: relative;
 right: 2%;
 left: 2%;
 height: 300px;	
+max-width: 600px;
 }
