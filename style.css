@@ -223,5 +223,6 @@ position: relative;
 height: 300px;	
 @media (max-width:1081px){
    max-width: 600px;}
-min-width: 300px;
+@media (max-width:1081px){
+   max-width: 600px;}
 }
