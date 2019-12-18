@@ -220,6 +220,7 @@ width: 1000px ;
 background-color: white;
 border: 2px solid blue;
 position: relative;
+min-width:300px;
 right: 20%;
 left: 20%;
 height: 300px;	
