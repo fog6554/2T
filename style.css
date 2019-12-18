@@ -225,12 +225,3 @@ width: 1000px ;
 }
 }
 
-@media (max-width;1081px){
-   .ram {
-   background-color: white;
-   border: 2px solid green;
-   position: relative;
-   height: 300px;	
-   width: 300px;
-}
-}
