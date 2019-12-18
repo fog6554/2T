@@ -216,7 +216,7 @@ width: 1000px ;
     font-family:verdana ;
 }
 
-#ram {
+.ram {
 background-color: white;
 border: 2px solid blue;
 position: relative;
