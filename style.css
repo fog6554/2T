@@ -221,5 +221,5 @@ background-color: white;
 border: 2px solid gold;
 position: relative;
 height: 300px;	
-max-width: 600px;
+min-width: 600px;
 }
