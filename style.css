@@ -87,9 +87,9 @@
     }
     .ram {
     background-color: white;
-    border: 2px solid blue;
+    border: 2px solid #555;
     height: 300px;
-    width: 340px;
+    width: 320px;
     }
     }
     
@@ -215,13 +215,14 @@ width: 1000px ;
 #comingx {
     font-family:verdana ;
 }
-@media (min-width;1081px){
-   .ram {
+
+@media(min-width: 1080px){
+   .ram {      
    background-color: white;
-   border: 2px solid darkgray;
+   border: 2px solid #555;
    position: relative;
    height: 300px;
    width: 600px;
-}
+   }
 }
 
